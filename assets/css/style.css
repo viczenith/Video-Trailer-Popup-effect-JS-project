@@ -67,13 +67,13 @@ a:hover,a:active,a:focus{
 
 /* HEADER SECTION */
 
-header{
+/*header{
 	background: url(../images/DSC_2143-1-removebg-preview.png) no-repeat;
 	background-color: rgba(0, 0, 0);
 	background-size:auto;
 	background-attachment: fixed;
 	background-position: left;
-}
+}*/
 header{
 	/* background: url(/assets/images/smallscreenbgpx.png) no-repeat; */
 	background: url(../images/DSC_2143-1-removebg-preview.png) no-repeat;
@@ -247,7 +247,7 @@ header{
 }
 .service-area {
     /* margin: 0px 0px 40px 0px; */
-	background-image: url(assets/images/R5.jfif);
+	background-image: url(../images/R5.jfif);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -299,7 +299,7 @@ header{
 #portfolio {
     /* padding: 80px 0px 0px 0px; */
 	margin: 0px 0px 0px 0px;
-	background-image: url(assets/images/R5.jfif);
+	background-image: url(../images/R5.jfif);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -442,7 +442,7 @@ header{
 /* //  06 - Testimonial  */
 
 #testimonial {
-    background: url(assets/images/R5.jfif);
+    background: url(../images/R5.jfif);
     /* padding: 0px 0px 150px 0px; */
     color: var(--white);
     background-attachment: fixed;
@@ -477,7 +477,7 @@ header{
 
 #contact {
     color: var(--white);
-	background: url(assets/images/R5.jfif);
+	background: url(../images/R5.jfif);
     /* padding: 80px 0px 80px 0px; */
     color: var(--white);
     background-attachment: fixed;
@@ -552,7 +552,7 @@ header{
     /* background-color: rgba(0, 0, 0, 0.75) !important; */
     padding: 30px 0px 30px 0px;
     position: relative;
-	background: url(assets/images/R5.jfif);
+	background: url(../images/R5.jfif);
     color: var(--white);
     background-attachment: fixed;
     background-size: cover;
@@ -606,7 +606,7 @@ header{
 footer {
     width: 100%;
     color: #fff;
-	background: url(assets/images/R5.jfif);
+	background: url(../images/R5.jfif);
     /* padding: 80px 0px 80px 0px; */
     color: var(--white);
     background-attachment: fixed;
@@ -677,7 +677,7 @@ i{
 @media screen and (max-width: 1280px) and (min-width: 1024px) {
 	header{
 		/* background: url(/assets/images/smallscreenbgpx.png) no-repeat; */
-		background: url(assets/images/DSC_2143-1-removebg-preview.png) no-repeat;
+		background: url(../images/DSC_2143-1-removebg-preview.png) no-repeat;
 		background-color: rgba(0, 0, 0);
 		background-size:auto;
 		background-attachment: fixed;
@@ -731,7 +731,7 @@ i{
 @media all and (max-width: 991px) and (min-width: 768px) {
 
 	header{
-		background: url(assets/images/smallscreenbgpx.png) no-repeat;
+		background: url(../images/smallscreenbgpx.png) no-repeat;
 		/* background: url(/assets/images/DSC_2143-1-removebg-preview.png) no-repeat; */
 		background-color: rgba(0, 0, 0);
 		background-size:auto;
@@ -786,7 +786,7 @@ i{
 @media all and (max-width: 991px) {
 
 	header{ 
-		background: url(assets/images/smallscreenbgpx.png) no-repeat;
+		background: url(../images/smallscreenbgpx.png) no-repeat;
 		/* background: url(/Victor/assets/images/DSC_2143-1-removebg-preview.png) no-repeat; */
 		background-color: rgba(0, 0, 0);
 		background-size:auto;
@@ -798,7 +798,7 @@ i{
 
 @media all and (max-width: 550px) {
 	.header{
-		background: url(assets/images/smallscreenbgpx.png) no-repeat;
+		background: url(../images/smallscreenbgpx.png) no-repeat;
 		/* background: url(/Victor/assets/images/DSC_2143-1-removebg-preview.png) no-repeat; */
 		background-color: rgba(0, 0, 0);
 		background-size:cover;
@@ -888,7 +888,7 @@ i{
 
 @media screen and (max-width: 450px) {
 	header{
-		background: url(assets/images/smallscreenbgpx.png) no-repeat;
+		background: url(../images/smallscreenbgpx.png) no-repeat;
 		background-color: rgba(0, 0, 0);
 		/* background-color: #30680f; */
 		background-size: cover;
@@ -968,7 +968,7 @@ i{
 @media all and (max-width: 380px) {
 
 	header{
-		background: url(assets/images/smallscreenbgpx.png) no-repeat;
+		background: url(../images/smallscreenbgpx.png) no-repeat;
 		background-color: rgba(0, 0, 0);
 		background-size:cover;
 		background-attachment: fixed;
